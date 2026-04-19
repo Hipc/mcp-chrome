@@ -66,6 +66,12 @@ npm
 npm install -g mcp-chrome-bridge
 ```
 
+Or use npx (no global install required):
+
+```bash
+npx mcp-chrome-bridge register
+```
+
 pnpm
 
 ```bash

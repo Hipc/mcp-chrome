@@ -64,6 +64,12 @@ npm
 npm install -g mcp-chrome-bridge
 ```
 
+或者使用 npx（无需全局安装）：
+
+```bash
+npx mcp-chrome-bridge register
+```
+
 pnpm
 
 ```bash
